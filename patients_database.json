@@ -1,0 +1,22 @@
+[
+    {
+        "id": "P-101",
+        "name": "Rajesh Gupta",
+        "age": 52,
+        "systolic_bp": 145,
+        "diastolic_bp": 92,
+        "weight_kg": 85.0,
+        "height_m": 1.7,
+        "bmi": 29.41
+    },
+    {
+        "id": "P-102",
+        "name": "Ananya Roy",
+        "age": "-",
+        "systolic_bp": "-",
+        "diastolic_bp": "-",
+        "weight_kg": "-",
+        "height_m": "-",
+        "bmi": "-"
+    }
+]
